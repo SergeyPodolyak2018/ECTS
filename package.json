@@ -1,0 +1,22 @@
+{
+  "name": "ectc-sergey-podolyak",
+  "version": "1.0.0",
+  "description": "This is test pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyPodolyak2018/ECTS.git"
+  },
+  "keywords": [
+    "ects"
+  ],
+  "author": "Sergey Podolyak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyPodolyak2018/ECTS/issues"
+  },
+  "homepage": "https://github.com/SergeyPodolyak2018/ECTS#readme"
+}
